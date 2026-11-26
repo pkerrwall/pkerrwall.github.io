@@ -6,7 +6,7 @@ aside{flex:0 0 14rem;font-size:1rem}.name a{font-size:1.35rem;font-weight:650;co
 .photo{display:block;width:160px;height:160px;border-radius:50%;object-fit:cover;margin:0 0 1rem}.role{color:var(--mut);margin:.2rem 0 1.2rem}
 nav a{display:block;padding:.25rem 0;color:var(--mut);text-decoration:none}nav a:hover{color:var(--fg)}
 nav a.on{color:var(--fg);font-weight:650}.links{list-style:none;padding:1rem 0 0;margin:1.2rem 0 0;border-top:1px solid var(--line)}
-.links li{margin:.3rem 0}.links a{color:var(--mut);text-decoration:none}.links a:hover{color:var(--fg)}main{flex:1;min-width:0;max-width:52rem}
+.sub{display:block;padding-left:1.5rem}.links li{margin:.3rem 0}.links a{color:var(--mut);text-decoration:none}.links a:hover{color:var(--fg)}main{flex:1;min-width:0;max-width:52rem}
 h1{font-size:2rem;margin:0 0 1rem;line-height:1.25}h2{font-size:1.2rem;margin-top:1.8rem}
 li{margin:.45rem 0}.note{color:var(--mut);font-size:.92rem}
 footer{border-top:1px solid var(--line);padding:1rem 1.2rem;text-align:center;color:var(--mut);font-size:.88rem}
